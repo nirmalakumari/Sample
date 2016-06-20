@@ -6,6 +6,7 @@ public class SampleClass {
 		// TODO Auto-generated method stub
 		System.out.println("Sample_GitHub project");
 		System.out.println("Sample_Github");
+		System.out.println("Sample");
 	}
 
 }
