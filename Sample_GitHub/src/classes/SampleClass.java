@@ -7,6 +7,7 @@ public class SampleClass {
 		System.out.println("Sample_GitHub project");
 		System.out.println("Sample_Github");
 		System.out.println("Sample");
+		System.out.println("G1");
 	}
 
 }
